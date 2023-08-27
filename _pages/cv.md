@@ -53,6 +53,7 @@ Projects
 ***Data-driven hydrological time series forecasting***
 -----
 Research about Data-driven hydrological time series forecasting, using method such as LSTM, GRU, Domain Adaption. In order to solve the problem of insufficient data volume in flood prediction work, domain adaptive methods are proposed at this stage, but the current methods are mainly based on fully supervised learning, and semi-supervised learning methods will be investigated subsequently.
+
 ![flood](/images/flood.png)
 
 ***Multi-robots swarm*** 
@@ -61,8 +62,8 @@ In this project, we identified a gap between simulation and real robots among th
 
 ![kkswarm](/images/kkswarm.png#pic_center)
 
- ***Vehicle-Road Collaboration Simulation System for Intelligent Transportation and Algorithmic Practice***
- -----
+***Vehicle-Road Collaboration Simulation System for Intelligent Transportation and Algorithmic Practice***
+-----
 This project is an innovation and entrepreneurship project for college students, the research centers on the key technology of building intelligent networked vehicle-road cooperative system for intelligent transportation and algorithmic practice, combining "smart car" and "smart road" together, realizing the intelligent interconnection between car and car and car and road. In this project, I mainly contributed in the developing of simulation system.
  
  ![vehicle-road collaboration system](/images/robot.jpg#pic_center)
