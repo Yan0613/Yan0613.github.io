@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Minxi Yan, a third-year student pursuing a Bachelor's degree in Computer Science and Technology at Hohai University. Currently I'm the president of robot association and member in [AIM Group](https://multimodality.group/) 
+I am Minxi Yan, a third-year student pursuing a Bachelor's degree in Computer Science and Technology at Hohai University. Currently I'm the president of robot association and member of [AIM Group](https://multimodality.group/) 
 
 Throughout my academic journey, I have consistently maintained a good academic performance, overall GPA 4.34/5. Notably, my grades have shown significant improvement during my sophomore and junior years, **achieving GPAs of 4.54/5 and 4.67/5 respectively**. These achievements have not gone unnoticed, as I had won **12 scholarships** and honors including Huawei Scholarship(top 2%), Technology Innovation Scholarship(top 5%) and academic excellent scholarship(top 10%). 
 
