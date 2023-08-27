@@ -50,6 +50,7 @@ Scholarships
 
 Projects
 ======
+
 ***Data-driven hydrological time series forecasting***
 -----
 Research about Data-driven hydrological time series forecasting, using method such as LSTM, GRU, Domain Adaption. In order to solve the problem of insufficient data volume in flood prediction work, domain adaptive methods are proposed at this stage, but the current methods are mainly based on fully supervised learning, and semi-supervised learning methods will be investigated subsequently.
