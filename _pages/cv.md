@@ -1,4 +1,4 @@
----
+![1693137040557](https://github.com/Yan0613/Yan0613.github.io/assets/77104028/9f03249a-27ef-44e7-a8e1-490ee21c2adf)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -46,7 +46,6 @@ Projects
 * ***Data-driven hydrological time series forecasting***
 
 Research about Data-driven hydrological time series forecasting, using method such as LSTM, GRU, Domain Adaption. In order to solve the problem of insufficient data volume in flood prediction work, domain adaptive methods are proposed at this stage, but the current methods are mainly based on fully supervised learning, and semi-supervised learning methods will be investigated subsequently.
-
 [flood](images/flood.png)
 
 * ***Multi-robots swarm*** 
@@ -56,6 +55,7 @@ In this project, we identified a gap between simulation and real robots among th
 * ***Vehicle-Road Collaboration Simulation System for Intelligent Transportation and Algorithmic Practice***
 
  This project is an innovation and entrepreneurship project for college students, the research centers on the key technology of building intelligent networked vehicle-road cooperative system for intelligent transportation and algorithmic practice, combining "smart car" and "smart road" together, realizing the intelligent interconnection between car and car and car and road. In order to realize the goal of "simulation in simulation and operation in physics" of the vehicle-road cooperative system, we set up a simulation platform for intelligent transportation networked vehicles, pursuing ultra-low cost and ultra-large scale, researching on low-power single-vehicle hardware design based on multi-sensors, designing high-precision indoor localization based on UWB and LiDAR odometers, researching on road congestion coefficient based on the road congestion coefficient, and researching on road congestion coefficient based on the road congestion coefficient. 
+ [vehicle-road collaboration system](images/robot.jpg)
 
 
 Publications
