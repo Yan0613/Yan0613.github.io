@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Hohai University, 2020-2024
-* Zhejiang University, 2023.7-2023.8 
+* B.S. in Hohai University, 2020-2024 ***GPA:3.7/4***
+* Summer School student in Zhejiang University - University of Illinois Urbana-Champaign Institute, ZJUI, 2023.7-2023.8 ***Score:99/100***
 
 Research experience
 ======
