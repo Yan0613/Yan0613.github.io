@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Minxi Yan"
   avatar           : "profile.png"
-  bio              : "Student at Hohai University, member in AIM Group."
+  bio              : "CS undergraduate student at Hohai University, member of AIM Group."
   location         : "Nanjing China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "minxiyan@hhu.edu.cn"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  # linkedin         :
+  linkedin         : "https://www.linkedin.com/in/minxi-yan-52b365264/"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   # soundcloud       :
