@@ -65,4 +65,4 @@ Publications
   
 Service and leadership
 ======
-* Currently the president of the Robot Association, with approximately 300 members.
+* Currently the president of the Robot Association, with approximately **300 members**.
