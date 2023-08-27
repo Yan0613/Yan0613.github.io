@@ -16,9 +16,11 @@ Education
 Research experience
 ======
 * **2021.11-NOW**: Undergraduate Research Assistant in Blackant laboratory
+
 A undergraduate intern in Computer Vision and Robotics in Blackant lab (Robot Motion and Vision Laboratory(Blackant), Hohai University). Research about muliti robots swarm project. 
 
 * **2022.6-NOW**: Undergraduate Research Assistant
+
 A DL intern in Fan Liu's lab**(AIM)**. Research about data driven flood forecasting.
 
 Competition Prizes
@@ -42,7 +44,7 @@ Scholarships
 Projects
 ======
 **Data-driven hydrological time series forecasting**
-
+Research about Data-driven hydrological time series forecasting, using method such as LSTM, GRU, Domain Adaption.
 **Multi-robots swarm**
 
 Publications
