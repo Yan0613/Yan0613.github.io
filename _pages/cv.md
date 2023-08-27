@@ -63,8 +63,7 @@ In this project, we identified a gap between simulation and real robots among th
 
  ***Vehicle-Road Collaboration Simulation System for Intelligent Transportation and Algorithmic Practice***
  -----
-
- This project is an innovation and entrepreneurship project for college students, the research centers on the key technology of building intelligent networked vehicle-road cooperative system for intelligent transportation and algorithmic practice, combining "smart car" and "smart road" together, realizing the intelligent interconnection between car and car and car and road. In this project, I mainly contributed in the developing of simulation system.
+This project is an innovation and entrepreneurship project for college students, the research centers on the key technology of building intelligent networked vehicle-road cooperative system for intelligent transportation and algorithmic practice, combining "smart car" and "smart road" together, realizing the intelligent interconnection between car and car and car and road. In this project, I mainly contributed in the developing of simulation system.
  
  ![vehicle-road collaboration system](/images/robot.jpg#pic_center)
 
