@@ -37,6 +37,7 @@ Scholarships
 * Huawei Scholarship in 2023**(top 5%)**
 * Academic excellent scholarship in 2020**(top 10%)**
 * Technology innovation scholarship in 2022**(top 5%)**
+* Academic Progress Scholarship**(top 5%)**
 
 Publications
 ======
