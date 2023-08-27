@@ -47,6 +47,8 @@ Projects
 
 Research about Data-driven hydrological time series forecasting, using method such as LSTM, GRU, Domain Adaption. In order to solve the problem of insufficient data volume in flood prediction work, domain adaptive methods are proposed at this stage, but the current methods are mainly based on fully supervised learning, and semi-supervised learning methods will be investigated subsequently.
 
+[flood](images/flood.png)
+
 * ***Multi-robots swarm*** 
 
 In this project, we identified a gap between simulation and real robots among the available solutions for robot swarm control research. We presented kk-swarms, a generalized and scaled open-source robot swarm platform, which crossed traditional control and modern reinforcement learning control of breaking the gap between no code simulation and real robot deployment. Firstly, we improved April tag performance and applied it to solve the localization of the physical environment with a global vision. Secondly, we defined multi-frame transformation to perfectly meet the mapping to the real environment one by one. Thirdly, based on reinforcement learning, we abstracted the critical problem as a two-robot problem for the multi-robot following. Finally, we showcased the functionalities of kk-swarm by comparing two state-of-the-art algorithms (pure-pursuit and reinforcement learning) for following paths in obstacles environments. 
