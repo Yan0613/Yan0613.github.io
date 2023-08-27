@@ -15,11 +15,11 @@ Education
 
 Research experience
 ======
-* 2021.11-NOW: Undergraduate Research Assistant in Blackant laboratory
+* **2021.11-NOW**: Undergraduate Research Assistant in Blackant laboratory
 A undergraduate intern in Computer Vision and Robotics in Blackant lab (Robot Motion and Vision Laboratory(Blackant), Hohai University). Research about muliti robots swarm project. 
 
-* 2022.6-NOW: Undergraduate Research Assistant
-A DL intern in Fan Liu's lab(AIM). Research about data driven flood forecasting.
+* **2022.6-NOW**: Undergraduate Research Assistant
+A DL intern in Fan Liu's lab**(AIM)**. Research about data driven flood forecasting.
 
 Competition Prizes
 ======
@@ -39,6 +39,12 @@ Scholarships
 * Technology innovation scholarship in 2022**(top 5%)**
 * Academic Progress Scholarship**(top 5%)**
 
+Projects
+======
+**Data-driven hydrological time series forecasting**
+
+**Multi-robots swarm**
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,4 +54,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently the president of the Robot Association, with approximately 300 members.
