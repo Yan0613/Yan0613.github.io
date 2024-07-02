@@ -63,11 +63,12 @@ In this project, we identified a gap between simulation and real robots among th
 
 ![kkswarm](/images/kkswarm.png#pic_center)
 
-***Vehicle-Road Collaboration Simulation System for Intelligent Transportation and Algorithmic Practice***
+***Apachee Dubbo Kubernets***
 -----
-This project is an innovation and entrepreneurship project for college students, the research centers on the key technology of building intelligent networked vehicle-road cooperative system for intelligent transportation and algorithmic practice, combining "smart car" and "smart road" together, realizing the intelligent interconnection between car and car and car and road. In this project, I mainly contributed in the developing of simulation system.
+The main goal of the Apache Dubbo Kubernetes integration project is to provide a unified control plane and interface to simplify and optimize the deployment, management, and operation of Dubbo based microservices in the Kubernetes environment. Through integration, developers can more easily achieve automatic registration and discovery, load balancing, routing, monitoring, and other functions of services. At the same time, Kubernetes' container orchestration capabilities can be utilized to achieve elastic expansion and automated operation and maintenance of microservices.
+You can find the code at https://github.com/apache/dubbo-kubernetes.
  
- ![vehicle-road collaboration system](/images/robot.jpg#pic_center)
+ ![Apache dubbo kubernets]([/images/robot.jpg#pic_center](https://github.com/apache/dubbo-kubernetes/blob/master/docs/images/homepage/arch2.png?raw=true))
 
 
 Publications
