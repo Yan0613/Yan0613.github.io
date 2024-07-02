@@ -68,7 +68,7 @@ In this project, we identified a gap between simulation and real robots among th
 The main goal of the Apache Dubbo Kubernetes integration project is to provide a unified control plane and interface to simplify and optimize the deployment, management, and operation of Dubbo based microservices in the Kubernetes environment. Through integration, developers can more easily achieve automatic registration and discovery, load balancing, routing, monitoring, and other functions of services. At the same time, Kubernetes' container orchestration capabilities can be utilized to achieve elastic expansion and automated operation and maintenance of microservices.
 You can find the code at https://github.com/apache/dubbo-kubernetes.
  
- ![Apache dubbo kubernets]([/images/robot.jpg#pic_center](https://github.com/apache/dubbo-kubernetes/blob/master/docs/images/homepage/arch2.png?raw=true))
+ ![Apache dubbo kubernets](https://github.com/apache/dubbo-kubernetes/blob/master/docs/images/homepage/arch2.png?raw=true)
 
 
 Publications
