@@ -13,7 +13,7 @@ Throughout my academic journey, I have consistently maintained a good academic p
 
 In order to enhance my practical abilities, I participated in some competitions, wining **9 national and provincial awards** including the second prize in the National Computer Design Competition, the First Prize in the Web Design Competition and the Third prize in the Service Outsourcing Innovation and Entrepreneurship Competition. 
 
-Out of my passion for academic research, I have led and participated in multiple projects such as ‘Vehicle-Road Collaborative Simulation System for Intelligent Transportation and Algorithm Practice’ , ’Data-driven Hydrological Time-series Prediction’ and ‘Multi-robot Swarm Control’. Currently, I have successfully had one paper and one software copyright accepted, with an additional two Chinese core papers currently under submission. In the future, I hope I can make contributions to airtificial intelligence and make the world better.
+Out of my passion for academic research, I have led and participated in multiple projects such as ‘Vehicle-Road Collaborative Simulation System for Intelligent Transportation and Algorithm Practice’ , ’Data-driven Hydrological Time-series Prediction’ and ‘Multi-robot Swarm Control’. Currently, I have successfully had one paper and one software copyright accepted, with an additional two Chinese core papers currently under submission. In the future, I hope I can make contributions to airtificial intelligence and make the world better.<br>
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ai0e4zmyoa&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=L4M4DOU4p_HiasQoLd_2BlVbizlXDrN_Rng5jd8_2Gg&cl=ffffff&w=a"></script>
