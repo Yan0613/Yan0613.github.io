@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am Minxi Yan, I graduated with a bachelor's degree from the College of Computer and Software Engineering at Hohai University, majoring in Computer Science and Technology. I am currently pursuing a master's degree in Computer Science and Technology at the Chinese University of Hong Kong(CUHK). My research interest includes VLLM and Domain Adaptation. Also, I am very interested in cloud-native development.
 
-<span style="font-family: 'Times New Roman';">## 🔥News</span>
+## <span style="font-family: 'Times New Roman';">🔥News</span>
 -
 
 ## 🗺️ Visitor Map
